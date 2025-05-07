@@ -41,7 +41,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ### Entries
 ENTER NAMES HERE \
-
+Oishi Nandi [oishi-nandi](http://github.com/oishi-nandi)
 
 ## Task 2
 
