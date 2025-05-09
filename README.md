@@ -41,6 +41,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ### Entries
 ENTER NAMES HERE \
+Tanishq Saxena [saxenatanishq](https://github.com/saxenatanishq)
 
 
 ## Task 2
