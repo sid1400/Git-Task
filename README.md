@@ -40,8 +40,10 @@ Your entry should maintain alphabetic order and it should be in the format:
 - Only one file should be there in the diff of your Pull Request.
 
 ### Entries
+
 ENTER NAMES HERE \
 Agneev Maitra [agneevopter](http://github.com/agneevopter)  
+Gokul Vemuri [gokidaman](http://github.com/gokidaman)  
 Oishi Nandi [oishi-nandi](http://github.com/oishi-nandi)  
 Ratharv Rathore ratharvrathore(http://github.com/ratharvrathore)  
 Uday Kalyan S [uday-kalyan-s](http://github.com/uday-kalyan-s)  
@@ -51,8 +53,7 @@ Uday Kalyan S [uday-kalyan-s](http://github.com/uday-kalyan-s)
 After all of you send a Pull Request, I'll add my name to 'Entries'. 
 
 - Configure a remote that points to the upstream repository in Git to sync changes you make in a fork with the original repository. 
-- Try to merge upstream changes into your downstream repository. You'll get 'merge conflicts'. 
-- [Remove the merge conflicts](https://help.github.com/en/articles/resolving-a-merge-conflict-using-the-command-line) and create another pull request.
+- Try to merge upstream changes into your downstream repository. You'll get 'merge conflicts'.- [Remove the merge conflicts](https://help.github.com/en/articles/resolving-a-merge-conflict-using-the-command-line) and create another pull request.
 
 
 ## Task 3
