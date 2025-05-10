@@ -48,6 +48,7 @@ Gokul Vemuri [gokidaman](http://github.com/gokidaman)
 Oishi Nandi [oishi-nandi](http://github.com/oishi-nandi)  
 Ratharv Rathore ratharvrathore(http://github.com/ratharvrathore)  
 Uday Kalyan S [uday-kalyan-s](http://github.com/uday-kalyan-s)  
+Yug Bargaway [YugBargaway2006](https://github.com/YugBargaway2006)
 
 ## Task 2
 
