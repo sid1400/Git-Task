@@ -40,19 +40,25 @@ Your entry should maintain alphabetic order and it should be in the format:
 - Only one file should be there in the diff of your Pull Request.
 
 ### Entries
-   
+
 ENTER NAMES HERE \
 
 Agneev Maitra [agneevopter](http://github.com/agneevopter)  
+Attadarshi Meshram [attadarshikgp](https://github.com/attadarshikgp)  
 Akshat Shukla [Akshat-Shu](https://github.com/Akshat-Shu)  
+Kunjika Tripathi [Kunjika07] (http://github.com/Kunjika07)  
+Anshumaan Mishra [AnshumaanMishra](https://github.com/AnshumaanMishra)  
 Gokul Vemuri [gokidaman](http://github.com/gokidaman)  
 Jinansh Dalal [jinansh-dalal](http://github.com/jinansh-dalal)  
+Hetarth Somani [hetarth-somani](https://github.com/hetarth-somani)  
 Oishi Nandi [oishi-nandi](http://github.com/oishi-nandi)  
 Ratharv Rathore ratharvrathore(http://github.com/ratharvrathore)  
+Spandan Das [spandandas489](http://github.com/spandandas489)  
 Tanishq Saxena [saxenatanishq](https://github.com/saxenatanishq)  
 Uday Kalyan S [uday-kalyan-s](http://github.com/uday-kalyan-s)  
-Yug Bargaway [YugBargaway2006](https://github.com/YugBargaway2006)
-
+Yug Bargaway [YugBargaway2006](https://github.com/YugBargaway2006)  
+Allu Gowri Sasaank [allugowrisasaank](https://github.com/allugowrisasaank)  
+Saksham Kumar [saksham-kumar-14](https://github.com/saksham-kumar-14)  
 
 ## Task 2
 
