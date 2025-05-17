@@ -43,17 +43,38 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ENTER NAMES HERE \
 
+Abhinav Tiwari[atiwari1704](https://github.com/atiwari1704)
 Agneev Maitra [agneevopter](http://github.com/agneevopter)  
+Attadarshi Meshram [attadarshikgp](https://github.com/attadarshikgp)  
 Akshat Shukla [Akshat-Shu](https://github.com/Akshat-Shu)  
-Aryan Ruat [AryanRaut24](https://github.com/AryanRaut24) 
+Aryan Ruat [AryanRaut24](https://github.com/AryanRaut24)  
+Kunjika Tripathi [Kunjika07] (http://github.com/Kunjika07)  
+Anshumaan Mishra [AnshumaanMishra](https://github.com/AnshumaanMishra)  
 Gokul Vemuri [gokidaman](http://github.com/gokidaman)  
-Hetarth Somani [hetarth-somani](https://github.com/hetarth-somani)
+Md Musheer Khan [noob-dev-mk](http://github.com/noob-dev-mk)  
+Ibtesam Ahmed [ibte7](http://github.com/ibte7)  
+Jinansh Dalal [jinansh-dalal](http://github.com/jinansh-dalal)  
+Hetarth Somani [hetarth-somani](https://github.com/hetarth-somani)  
 Oishi Nandi [oishi-nandi](http://github.com/oishi-nandi)  
+Sohan Choudhury [sohan-choudhury](https://github.com/spak1235)  
+Mahin Sanklecha [MahienSanklechaa](https://github.com/MahienSanklechaa)
 Ratharv Rathore ratharvrathore(http://github.com/ratharvrathore)  
+Soumya Gupta [mugiwara6900](http://github.com/mugiwara6900)  
+SOmisetty Venkata Saran[FlyingNInja420](http://github.com/FlyingNInja420)  
+Rohan Kumar Sah [rosa479](https://github.com/rosa479)  
+Spandan Das [spandandas489](http://github.com/spandandas489)  
 Tanishq Saxena [saxenatanishq](https://github.com/saxenatanishq)  
 Uday Kalyan S [uday-kalyan-s](http://github.com/uday-kalyan-s)  
-Yug Bargaway [YugBargaway2006](https://github.com/YugBargaway2006)
-
+Yash Bhatt [Curiousforever](https://github.com/Curiousforever)  
+Uddipto Mandal [UddiptoMandal](https://github.com/UddiptoMandal)  
+Shrey Nayakpara [ShreyNayakpara](https://github.com/ShreyNayakpara)  
+Moksh Patel [T3CH-Pyth0n](https://github.com/T3CH-Pyth0n)  
+Rishi Songirkar [OS-IT1](https://github.com/OS-IT1)  
+Yash Shah [yash-y-shah](https://github.com/yash-y-shah)  
+Mohak Agarwal [Mohak0245](https://github.com/Mohak0245)  
+Yug Bargaway [YugBargaway2006](https://github.com/YugBargaway2006)  
+Allu Gowri Sasaank [allugowrisasaank](https://github.com/allugowrisasaank)  
+Saksham Kumar [saksham-kumar-14](https://github.com/saksham-kumar-14)  
 
 ## Task 2
 
