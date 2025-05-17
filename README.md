@@ -46,6 +46,7 @@ ENTER NAMES HERE \
 Agneev Maitra [agneevopter](http://github.com/agneevopter)  
 Attadarshi Meshram [attadarshikgp](https://github.com/attadarshikgp) 
 Akshat Shukla [Akshat-Shu](https://github.com/Akshat-Shu)  
+Kunjika Tripathi [Kunjika07] (http://github.com/Kunjika07)
 Anshumaan Mishra [AnshumaanMishra](https://github.com/AnshumaanMishra)
 Gokul Vemuri [gokidaman](http://github.com/gokidaman)  
 Hetarth Somani [hetarth-somani](https://github.com/hetarth-somani)
